@@ -1,0 +1,14 @@
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\bin\Debug\D2RMH.exe.config
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\bin\Debug\D2RMH.exe
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\bin\Debug\D2RMH.pdb
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\app.Form1.resources
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\app.Properties.Resources.resources
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\app.csproj.Up2Date
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\D2RMH.exe
+C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R_MH\obj\Debug\D2RMH.pdb
