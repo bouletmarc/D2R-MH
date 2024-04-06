@@ -4,6 +4,9 @@ Diablo II : Resurrected - Maphack
 
 # USE AT YOUR OWN RISK ONLY
 
+![alt tag](https://raw.githubusercontent.com/bouletmarc/D2R-MH/main/D2RMH.png)
+![alt tag](https://raw.githubusercontent.com/bouletmarc/D2R-MH/main/D2RMH2.png)
+
 # REQUIREMENTS
 
     - Diablo2 Lord of Destruction 1.13C MUST BE INSTALLED for bot path finding (set the path in Settings.txt)
